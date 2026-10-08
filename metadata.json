@@ -1,0 +1,6 @@
+{
+  "name": "ANIME BALL",
+  "description": "تطبيق ANIME BALL الاحترافي لمشاهدة حلقات الأنمي ودراغون بول سوبر بجودة عالية وبمشغل متقدم",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

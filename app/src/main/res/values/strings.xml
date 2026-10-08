@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">ANIME BALL</string>
+    <string name="blessing_prophet">صلِّ على رسول الله ﷺ</string>
+    <string name="dragon_ball_super">🔥 دراغون بول سوبر</string>
+    <string name="new_episodes">🔄 الحلقات الجديدة</string>
+    <string name="new_episodes_desc">يتم تجديد الحلقات وإضافة الحلقات الجديدة تلقائيًا عند توفرها. إذا لم يتم تحديث الحلقات لمدة أسبوع، يرجى التواصل مع المطور أو تحديث التطبيق للحصول على آخر نسخة.</string>
+    <string name="refresh_episodes">تحديث الحلقات</string>
+    <string name="contact_developer">تواصل مع المطور</string>
+    <string name="follow_tiktok">تابع المطور على TikTok</string>
+    <string name="legal_notice_title">سياسة الخصوصية والتنبيه القانوني</string>
+    <string name="legal_notice_content">هذا التطبيق ليس تطبيقًا رسميًا تابعًا لأي شركة أو استوديو أو مالك لحقوق الأنمي المعروض. التطبيق لا يدّعي ملكية الأفلام أو الحلقات أو الترجمات أو الأعمال المعروضة، وحقوق الملكية الفكرية تعود إلى أصحابها ومالكي الحقوق. إذا كنت صاحب حقوق وتعتقد أن هناك محتوى مخالفًا، يرجى التواصل مع المطور.</string>
+    <string name="welcome_title">مرحبًا بك في ANIME BALL</string>
+    <string name="welcome_free_desc">تطبيقك المجاني المتكامل لمشاهدة حلقات الأنمي المفضلة بأعلى جودة وتجربة فريدة وسريعة.</string>
+    <string name="feature_watch">مشاهدة الحلقات المتاحة بجودة عالية</string>
+    <string name="feature_pro_player">مشغل فيديو احترافي ومتجاوب</string>
+    <string name="feature_orientation">المشاهدة بالوضع العمودي أو الأفقي ملء الشاشة</string>
+    <string name="feature_seek">التحكم بالتقدم والتراجع 10 ثوانٍ داخل الفيديو</string>
+    <string name="feature_speed">التحكم في سرعة تشغيل الفيديو (0.5x إلى 2x)</string>
+    <string name="feature_navigation">التنقل السلس والسريع بين الحلقات</string>
+    <string name="feature_updates">تحديث وتجديد الحلقات عند توفرها</string>
+</resources>
